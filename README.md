@@ -1,6 +1,6 @@
 # INDEX
 
-| [ENGLISH](#) | [简体中文](./README.CN.md) |
+| [ENGLISH](#) | [简体中文](./README.CN.md) | [繁體中文](./README.CN-TW.md) |
 
 INDEX is a cross-platform, high-dimensional tag-based indexing service designed to help users easily manage and retrieve various resources. By customizing tags, users can label resources such as files (e.g., images, videos, games, documents), webpages (e.g., URLs, HTML), and concepts (e.g., actors, virtual characters, virtual entities), and then quickly find the desired content through INDEX's powerful indexing system.
 
