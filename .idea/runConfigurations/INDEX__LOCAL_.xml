@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="INDEX (LOCAL)" type="GoApplicationRunConfiguration" factoryName="Go Application" folderName="Local">
+    <module name="INDEX" />
+    <working_directory value="$PROJECT_DIR$/.local" />
+    <kind value="PACKAGE" />
+    <package value="github.com/singu-tech/INDEX" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
